@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos'>
+    <pages>
+        <page name='Untitled Page'/>
+        <page name='IDType'/>
+        <page name='Request'/>
+        <page name='Cache'/>
+        <page name='PATs'/>
+        <page name='Equatable'/>
+    </pages>
+</playground>
